@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlS0149
 - 👀 I’m interested in python
-- 🌱 I’m currently learning in skypro
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me / here 
 
